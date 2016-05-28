@@ -1,2 +1,2 @@
-# fab-four-trivia-skill
-Alexa Skill for Beatles Trivia
+# rva-facts-alexa-skil
+Alexa Skill for Richmond, Virginia Trivia and Fact
